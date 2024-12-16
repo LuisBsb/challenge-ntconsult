@@ -36,4 +36,4 @@ NTConsult Technical Task
 > **_NOTE:_**  The application performance was tested using JMeter, in the file "Argyle Fibonacci Test.jmx" you will find the test plan.
 
 ## Tests with the image
-> **_NOTE:_**  With this README, you have clear instructions for running the application, exploring the API documentation, and conducting performance testing. Additionally, the Docker image luisbsb/argyle:1.0 is available on Docker Hub for testing purposes.
+> **_NOTE:_**  With this README, you have clear instructions for running the application, exploring the API documentation, and conducting performance testing. Additionally, the Docker image luisbsb/app:1.0 is available on Docker Hub for testing purposes.
